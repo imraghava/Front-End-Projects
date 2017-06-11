@@ -1,0 +1,26 @@
+#left-half{
+	
+	
+ width: 50%;
+   position: absolute;
+   left: 0px;
+   top:0px;
+height: 100%;}
+
+#right-half{
+	width: 50%;
+  position: absolute;
+   
+  right:0px;
+  
+   border-style:solid; 
+   height: 100%;
+
+}
+#right-regpage{
+margin-left:50px;
+
+}
+#hpImage{
+height:100%
+}
